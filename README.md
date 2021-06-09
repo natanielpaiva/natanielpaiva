@@ -1,6 +1,6 @@
 ### E aí galera 👋
 
-Eu sou Nataniel Paiva, Líder Técnico Java na [CWI Além do Software](https://cwi.com.br/), Instrutor na [Udemy](https://www.udemy.com/user/natanielpaiva) com vários cursos de Java, React, Angular e etc..., tenho a honra atuar como instrutor em um programa de formação de novos programadores na [CWI Além do Software](https://cwi.com.br/) chamado [Crescer](https://crescer.cwi.com.br/).
+Eu sou Nataniel Paiva, Líder de Engenharia de Software na [CWI Além do Software](https://cwi.com.br/), Instrutor na [Udemy](https://www.udemy.com/user/natanielpaiva) com vários cursos de Java, React, Angular e etc..., tenho a honra atuar como instrutor em um programa de formação de novos programadores na [CWI Além do Software](https://cwi.com.br/) chamado [Crescer](https://crescer.cwi.com.br/).
 
 Escrevo alguns artigos no [Medium](https://nataniel-paiva.medium.com/), também tenho alguns videos no [YouTube](https://www.youtube.com/channel/UCjit8ssBmA7pWISOEqFtbAw).
 
