@@ -4,6 +4,7 @@ Eu sou Nataniel Paiva, Líder de Engenharia de Software na [CWI Além do Softwar
 
 Escrevo alguns artigos no [Medium](https://nataniel-paiva.medium.com/), também tenho alguns videos no [YouTube](https://www.youtube.com/channel/UCjit8ssBmA7pWISOEqFtbAw).
 
+[![Medium: natanielpaiva](https://img.shields.io/badge/-Udemy-gray?style=flat-square&logo=Udemy&logoColor=white&linkhttps://www.udemy.com/user/natanielpaiva//)](https://www.udemy.com/user/natanielpaiva/)
 [![Medium: natanielpaiva](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://nataniel-paiva.medium.com/)](https://nataniel-paiva.medium.com/)
 [![Linkedin: natanielpaiva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanielpaiva/)](https://www.linkedin.com/in/natanielpaiva/)
 [![Youtube: natanielpaiva](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCjit8ssBmA7pWISOEqFtbAw)](https://www.youtube.com/channel/UCjit8ssBmA7pWISOEqFtbAw)
