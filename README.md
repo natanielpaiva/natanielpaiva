@@ -1,7 +1,6 @@
 ### E aí galera 👋
 
-Eu sou Nataniel Paiva, Líder de Engenharia de Software na [CWI Além do Software](https://cwi.com.br/), Instrutor na [Udemy](https://www.udemy.com/user/natanielpaiva) com vários cursos de Java, React, Angular e etc..., tenho a honra atuar como instrutor em um programa de formação de novos programadores na [CWI Além do Software](https://cwi.com.br/) chamado [Crescer](https://crescer.cwi.com.br/).
-
+Eu sou Nataniel Paiva, Tech Lead na [Zup Innovation](https://www.zup.com.br/), Instrutor na [Udemy](https://www.udemy.com/user/natanielpaiva) com vários cursos de Java, React, Angular e etc...
 Escrevo alguns artigos no [Medium](https://nataniel-paiva.medium.com/), também tenho alguns videos no [YouTube](https://www.youtube.com/channel/UCjit8ssBmA7pWISOEqFtbAw).
 
 [![Medium: natanielpaiva](https://img.shields.io/badge/-Udemy-red?style=flat-square&logo=Udemy&logoColor=white&linkhttps://www.udemy.com/user/natanielpaiva//)](https://www.udemy.com/user/natanielpaiva/)
