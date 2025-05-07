@@ -1,6 +1,6 @@
 ### E aí galera 👋
 
-Eu sou Nataniel Paiva, Staff Engineer na [PicPay](https://picpay.com/), Professor na <a href="https://pos.grancursosonline.com.br/professor/nataniel-paiva" target="_blank">Gran Faculdade</a>, Palestrante e Coordenador no [TDC](https://thedevconf.com/palestrante/nataniel-paiva) Instrutor na [Udemy](https://www.udemy.com/user/natanielpaiva) com vários cursos de Java, React, Angular e etc...
+Eu sou Nataniel Paiva, Staff Engineer na [PicPay](https://picpay.com/), Professor na <a href="https://pos.grancursosonline.com.br/professor/nataniel-paiva" target="_blank">Gran Faculdade</a>, Palestrante e Coordenador no [TDC](https://thedevconf.com/palestrante/nataniel-paiva), Instrutor na [Udemy](https://www.udemy.com/user/natanielpaiva) com vários cursos de Java, React, Angular e etc...
 Escrevo alguns artigos no [Medium](https://nataniel-paiva.medium.com/), também tenho alguns vídeos no [YouTube](https://www.youtube.com/channel/UCjit8ssBmA7pWISOEqFtbAw).
 
 [![Medium: natanielpaiva](https://img.shields.io/badge/-Udemy-red?style=flat-square&logo=Udemy&logoColor=white&linkhttps://www.udemy.com/user/natanielpaiva//)](https://www.udemy.com/user/natanielpaiva/)
